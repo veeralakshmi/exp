@@ -4,5 +4,6 @@ class exp
   {
      System.out.println("HELLO WORLD");
      System.out.println("my name is veeralakshmi");
+     System.out.println("i am stupid");
   }
 }
